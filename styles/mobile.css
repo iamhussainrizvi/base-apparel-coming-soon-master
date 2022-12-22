@@ -1,0 +1,111 @@
+@media screen and (max-width:700px) {
+
+*{
+    /* display: none; */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.body{
+    display: block;
+    background-image: none;
+    background-color: white;
+    
+}
+
+.img-hero-desktop{
+    display: none;
+}
+
+.img-hero-mobile{
+    display: block;
+    width: 100%;
+    position: relative;
+    top:70px;
+}
+
+.main-flex{
+    flex-direction: column-reverse;
+    min-width: 375px;
+    background-image: none;
+
+}
+
+
+.main-part-one{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* padding-top: 20px; */
+    
+    
+}
+
+.main-part-two{
+    background-color: white;
+}
+
+.logo{
+    margin-top: 10px;
+    /* height: 50px; */
+    position: relative;
+    top: -250px;
+    /* left: 20px; */
+    text-align: center;
+    background-color: white;
+    
+}
+
+.main-text{
+    padding-top: 50px;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.main-para{
+    padding: 20px;
+    /* padding-bottom: 15px; */
+    font-weight: 200;
+    /* margin-left: 20px; */
+    /* padding-left: 30px; */
+
+}
+
+.main-form{
+    margin-top: 25px;
+    margin-bottom: 60px;
+    padding-left: 30px;
+    
+}
+
+input[type="email"]::placeholder{
+    font-size: 14px;
+    text-align: left;
+    font-weight: 150;
+}
+
+.btn svg{
+    margin-left: 0px;
+}
+
+.btn{
+    height: 40px;
+    border: 1px;
+}
+
+.main-input{
+    width: calc(100% - 20px);
+    /* width: 100%; */
+    height: 40px;
+    border-radius: 1px solid hsl(0, 80%, 86%);;
+
+}
+
+
+
+
+}
+
