@@ -1,37 +1,9 @@
 # Frontend Mentor - Base Apparel coming soon page solution
 
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+- Live Site URL: [Add live site URL here](https://site-base-apparel-frontend-mentor.netlify.app/)
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- responsive for desktop and mobile
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+my solution to the challenge.
+![base-apparel](https://user-images.githubusercontent.com/99624725/230492472-fe8048e4-8cfa-475f-bb0a-b15ad588a563.png)
 
 ### Built with
 
@@ -49,8 +21,6 @@ this project helped me to brush my skills on:
 -CSS grid
 -Positioning
 
-
-
 ## Author
 
 - Frontend Mentor - [@iamhussainrizvi](https://www.frontendmentor.io/profile/iamhussainrizvi)
@@ -58,4 +28,3 @@ this project helped me to brush my skills on:
 ## Acknowledgments
 
 This project is completed by Kalbe Hussain RIzvi.
-
